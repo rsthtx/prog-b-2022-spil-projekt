@@ -7,4 +7,13 @@ Demo spil projekt i grupper
 
 # Projektstyring
 
-TBD
+## Done
+
+## In Progress
+
+## Todo
+
+## Icebox
+- [ ] Opsætning af fælles git repository
+- [ ] Kode projektstruktur
+- [ ] Beskrivelse af projekt
