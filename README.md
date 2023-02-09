@@ -4,3 +4,10 @@ Demo spil projekt i grupper
 ## Deltagere
 - stou
 - noah
+- Krisgamer34
+
+
+# Projektstyring
+
+TBD
+
