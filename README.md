@@ -12,12 +12,12 @@ Demo spil projekt i grupper
 # Projektstyring
 
 ## Done
+- [x] Opsætning af fælles git repository
 
 ## In Progress
 
 ## Todo
+- [ ] Beskrivelse af projekt
 
 ## Icebox
-- [ ] Opsætning af fælles git repository
 - [ ] Kode projektstruktur
-- [ ] Beskrivelse af projekt
