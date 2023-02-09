@@ -1,6 +1,9 @@
 # prog-b-2022-spil-projekt
 Demo spil projekt i grupper
 
+## Demo
+- Prøv [spillet i din browser](builds/web/)
+
 ## Deltagere
 - stou
 - h3nse
