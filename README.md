@@ -3,3 +3,4 @@ Demo spil projekt i grupper
 
 ## Deltagere
 - stou
+- maxi0272
