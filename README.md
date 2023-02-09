@@ -16,10 +16,10 @@ Demo spil projekt i grupper
   - [x] Oprette
   - [x] tilføje brugere
   - [x] Vise håndtering af konflikter
+- [x] Kode projektstruktur
 
 
 ## In Progress
-- [ ] Kode projektstruktur
 
 ## Todo
 - [ ] Beskrivelse af projekt
