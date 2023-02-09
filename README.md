@@ -7,6 +7,7 @@ Demo spil projekt i grupper
 - maxi0272
 - noah
 - Krisgamer34
+- malthelade
 
 # Projektstyring
 
