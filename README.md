@@ -20,7 +20,6 @@ Demo spil projekt i grupper
 - [x] Publish for playtesting
 - [x] Change color of player
 
-
 ## In Progress
 
 ## Todo
