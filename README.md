@@ -17,6 +17,8 @@ Demo spil projekt i grupper
   - [x] tilføje brugere
   - [x] Vise håndtering af konflikter
 - [x] Kode projektstruktur
+- [x] Publish for playtesting
+- [x] Change color of player
 
 
 ## In Progress
