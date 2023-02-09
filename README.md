@@ -13,6 +13,10 @@ Demo spil projekt i grupper
 
 ## Done
 - [x] Opsætning af fælles git repository
+  - [x] Oprette
+  - [x] tilføje brugere
+  - [x] Vise håndtering af konflikter
+
 
 ## In Progress
 
