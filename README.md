@@ -19,9 +19,9 @@ Demo spil projekt i grupper
 
 
 ## In Progress
+- [ ] Kode projektstruktur
 
 ## Todo
 - [ ] Beskrivelse af projekt
 
 ## Icebox
-- [ ] Kode projektstruktur
