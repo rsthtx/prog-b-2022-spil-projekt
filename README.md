@@ -3,12 +3,11 @@ Demo spil projekt i grupper
 
 ## Deltagere
 - stou
+- h3nse
 - maxi0272
 - noah
 - Krisgamer34
 
-
 # Projektstyring
 
 TBD
-
